@@ -48,6 +48,24 @@
       "service": "Lambda"
     }
   },
+  "parameters": {
+    "AMPLIFY_function_lambdatos355b401fc_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lambdatos355b401fc"
+        }
+      ]
+    },
+    "AMPLIFY_function_lambdatos355b401fc_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lambdatos355b401fc"
+        }
+      ]
+    }
+  },
   "storage": {
     "s33c3f5f05": {
       "dependsOn": [],

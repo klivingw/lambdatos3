@@ -8,6 +8,10 @@ Amplify Params - DO NOT EDIT */
 /**
  * @type {import('@types/aws-lambda').APIGatewayProxyHandler}
  */
+
+const AWS = require("aws-sdk");
+const s3 = new AWS.S3();
+
 exports.handler = async (event) => {
     s3.getObject(params, function (err, data) {
         if (err) console.log(err, err.stack); // an error occurred

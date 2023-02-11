@@ -18,7 +18,7 @@
       "function": {
         "lambdatos355b401fc": {
           "deploymentBucketName": "amplify-lambdatos3-dev-145442-deployment",
-          "s3Key": "amplify-builds/lambdatos355b401fc-536d63586f483731394d-build.zip"
+          "s3Key": "amplify-builds/lambdatos355b401fc-68664b614a5957584d54-build.zip"
         }
       },
       "storage": {
