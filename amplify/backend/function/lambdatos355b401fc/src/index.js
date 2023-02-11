@@ -40,6 +40,6 @@ exports.handler = async (event) => {
 
 
 var params = {
-    Bucket: "examplebucket",
-    Key: "HappyFace.jpg"
+    Bucket: "lambdatos3b7d8b7312f8741f7859b45bd7e6cb760145442-dev",
+    Key: "HappyFace.png"
 };
