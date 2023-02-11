@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "auth": {
+      "lambdatos3ffe2ff05": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "s33c3f5f05": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

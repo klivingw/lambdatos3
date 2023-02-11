@@ -1,0 +1,26 @@
+[
+  {
+    "Action": [
+      "s3:CreateBucket"
+    ],
+    "Resource": [
+      "arn:aws:s3:::*"
+    ]
+  },
+  {
+    "Action": [
+      "s3:GetObject"
+    ],
+    "Resource": [
+      "arn:aws:s3:::*"
+    ]
+  },
+  {
+    "Action": [
+      "s3:ListBuckets"
+    ],
+    "Resource": [
+      "arn:aws:s3:::*"
+    ]
+  }
+]
